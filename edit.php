@@ -114,7 +114,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             <?php endforeach; ?>
         </ul>
     <?php endif; ?>
-    <br>
-    <a href="index.php">戻る</a>
+    <p><a href="index.php">戻る</a></p>
 </body>
 </html>
